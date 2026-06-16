@@ -1,6 +1,4 @@
-# Audex — Landing Page
+# Audex landing (React + Vite + Tailwind v4 - Watermelon UI)
 
-Live product landing for **Audex** (free Windows app: Excel workbook to audit-ready IFRS PDF statements).
-Deployed via GitHub Pages. Source seeded from the Audex repo `demo/landing/`.
-
-CTA currently points to a Microsoft Store search (interim) until the direct listing URL is wired in.
+Built output deployed via GitHub Pages. Source: the Audex repo `landing/`.
+`privacy.html` is a standalone page kept for the Microsoft Store privacy URL.
